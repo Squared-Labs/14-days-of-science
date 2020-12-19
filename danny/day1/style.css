@@ -4,13 +4,13 @@
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Lora', serif;
-    color: #BEB7A4; /* Text Colour */
+    color: #020122; /* Text Colour */
     font-size: 200%;
     text-align: center;
 }
 
 body {
-    background-color: #080357; /* Background Colour */
+    background-color: #BEB7A4; /* Background Colour */
 }
 
 
