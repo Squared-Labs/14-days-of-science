@@ -13,7 +13,7 @@ async function determineStyle(fact) {
     } if (fact.text.includes("dark") || fact.text.includes("black") || fact.text.includes("death") || fact.text.includes("blood") || fact.text.includes("gray") || fact.text.includes("grey")) {
         document.getElementById("style").setAttribute("href", "/danny/day1/style-blackred.css")
     } if (fact.text.includes("nature") || fact.text.includes("leaves") || fact.text.includes("weed") || fact.text.includes("leaf") || fact.text.includes("spring") || fact.text.includes("summer") || fact.text.includes("winter") || fact.text.includes("autumn") || fact.text.includes("fall")) {
-
+        
     }
 }
 
