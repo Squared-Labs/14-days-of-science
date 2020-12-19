@@ -1,0 +1,41 @@
+#fact {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Lora', serif;
+    color: #CC5A71; /* Text Colour */
+    font-size: 200%;
+    text-align: center;
+}
+
+body {
+    background-color: #070707; /* Background Colour */
+}
+
+
+
+
+/* Colour Palletes
+
+newspaper / beige & black: 
+Background: #BEB7A4
+Text: #020122
+
+black and red: 
+Background: #070707
+Text: #CC5A71
+
+green & black: 
+Background: #037971
+Text: #070707
+
+red & black: 
+Background: #CC5A71
+Text: #020122
+
+blue & beige: 
+Background: #080357
+Text: #BEB7A4
+
+*/
