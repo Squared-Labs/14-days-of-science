@@ -1,6 +1,6 @@
 async function fetchTypes(type) {
     const typeList = {
-        fact: "/util/facts.json",
+        facts_s1: "https://uselessfacts.jsph.pl/random.json?language=en",
         covid: null
     }
 
